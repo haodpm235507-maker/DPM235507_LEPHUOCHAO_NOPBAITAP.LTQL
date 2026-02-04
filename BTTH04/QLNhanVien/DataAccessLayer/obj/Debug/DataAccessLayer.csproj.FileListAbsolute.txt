@@ -1,0 +1,11 @@
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\bin\Debug\DataTransferObject.dll
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\bin\Debug\DataTransferObject.pdb
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\IT\LTQL\BTTH04\QLNhanVien\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
