@@ -1,0 +1,8 @@
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.Properties.Resources.resources
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.GenerateResource.cache
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\IT\LTQL\BTTH04\QLNhanVien\DataTransferObject\obj\Debug\DataTransferObject.pdb
